@@ -1,7 +1,7 @@
 Package: DOTSeq
 Type: Package
 Title: Genome-wide Detection of Differential ORF Usage
-Version: 0.99.8
+Version: 1.0.0
 Authors@R: c(
     person(
         given = "Chun Shen", 
